@@ -28,7 +28,7 @@ Following information is computed based on the summarized data
 
   * No Empty rows exist in between the data
 
-  * Stock price data is sorted by ticker symbol and date
+  * Stock price data is sorted by ticker symbol and date (ascending order)
 
 ## Files
 
