@@ -1,2 +1,0 @@
-# vba-challenge
-VBA challenge
