@@ -39,6 +39,9 @@ Following information is computed based on the summarized data
     * results_screenshots/2018.png
     * results_screenshots/2019.png
     * results_screenshots/2020.png
+  
+  * Data:
+    * data/alphabetical_testing.xlsx  
 
 ## Run Instructions
 
