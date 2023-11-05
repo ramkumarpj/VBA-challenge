@@ -52,6 +52,6 @@ Following information is computed based on the summarized data
 
   * Click on 'Run' button to create the summary
 
-## Sample screenhot
+## Sample screenshot
 
   ![plot](./results_screenshots/2018.png)
