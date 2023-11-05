@@ -36,9 +36,9 @@ Following information is computed based on the summarized data
     * scripts/StockQuoteAnalysis.bas
 
   * Results screenshots:
-    * results_screenshots/2018
-    * results_screenshots/2019
-    * results_screenshots/2020
+    * results_screenshots/2018.png
+    * results_screenshots/2019.png
+    * results_screenshots/2020.png
 
 ## Run Instructions
 
@@ -51,3 +51,7 @@ Following information is computed based on the summarized data
   * Select scripts/StockQuoteAnalysis.bas file to import the VBA code
 
   * Click on 'Run' button to create the summary
+
+## Sample screenhot
+
+  ![plot](./results_screenshots/2018.png)
