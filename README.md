@@ -58,3 +58,7 @@ Following information is computed based on the summarized data
 ## Sample screenshot
 
   ![plot](./results_screenshots/2018.png)
+
+
+# Disclaimer
+This repo was published for educational purpose only. Copyright 2023 edX Boot Camps LLC. All rights reserved.
